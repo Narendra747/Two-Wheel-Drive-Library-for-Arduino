@@ -5,4 +5,4 @@ This is a arduino library built for operating a two wheels driven robot. Its bas
 Motor 1 is Left and Motor 2 is Right.
 Functions to move forward,backward,turn blunt and sharp in right and left directions and brake are supported.
 
-(The spaces between Functions and KEYWORDX need to be replaced by tabs to get functions to be highlighted in Arduino IDE when written)
+(The spaces between Functions and KEYWORDX need to be replaced by tabs in the keywords.txt file to get functions to be highlighted in Arduino IDE when written)
