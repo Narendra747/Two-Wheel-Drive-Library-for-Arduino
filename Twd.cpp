@@ -30,7 +30,7 @@ void Twd::moveForward()
 void Twd::moveBackward()
 {
   digitalWrite(_motor1logic1, LOW);
-  digitalWrite(_motor1logic2, High);
+  digitalWrite(_motor1logic2, HIGH);
   digitalWrite(_motor2logic1, LOW);
   digitalWrite(_motor2logic2, HIGH);
 }
